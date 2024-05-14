@@ -30,8 +30,6 @@ class BloodManagement extends CI_Controller
         $data['lowest_blood_type'] = $this->BloodManagementModel->get_lowest_blood_type();
 
 
-            
-        
         $this->load->view('STYLES/header');
         $this->load->view('Admin/SidebarAdmin');
         $this->load->view('Admin/Body/BloodManagement', $data); 
