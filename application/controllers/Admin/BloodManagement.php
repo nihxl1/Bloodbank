@@ -35,8 +35,6 @@ class BloodManagement extends CI_Controller
         $this->load->view('Admin/Body/BloodManagement', $data); 
         $this->load->view('Admin/FooterAdmin');
     }
-    
-    
 
     public function Donations() {
         $this->load->model('Admin/DonationsModel');
