@@ -76,7 +76,3 @@ Donors have the ability to submit requests for blood donations. However, these r
 ### Is there a mobile app available for BloodBank Plus?
 
 Currently, there is no mobile app available for BloodBank Plus.
-
----
-
-Feel free to customize and expand upon this README to suit your specific needs and requirements.
